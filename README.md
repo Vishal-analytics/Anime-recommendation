@@ -7,8 +7,8 @@ Prepared dataset for all anime titles by web scrapping in python. Libraries used
 In this project, created a machine learning algorithm that would recommend **Anime** based on a anime the user likes. This Machine Learning model would be based on *Cosine Similarity.*
 
 #### Skills used: 
-*Datamining
-*Web scrapping
-*Data cleaning
-*Data exploration
-*Model creation
+1. Datamining
+2. Web scrapping
+3. Data cleaning
+3. Data exploration
+4. Model creation
